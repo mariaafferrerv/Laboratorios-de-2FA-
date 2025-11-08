@@ -1,0 +1,7 @@
+{
+    "require": {
+        "spomky-labs/otphp": "11",
+        "chillerlan/php-qrcode": "5",
+        "sonata-project/google-authenticator": "2.3"
+    }
+}
